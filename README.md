@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TreeBlossom
+- 👀 I’m interested in developing applications and websites.
+- 🌱 I’m currently learning programming and various APIs
+- 💞️ I’m looking to collaborate on various online projects
+- 📫 How to reach me index@blossomtree.dev
